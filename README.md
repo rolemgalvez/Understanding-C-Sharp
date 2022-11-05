@@ -25,5 +25,5 @@ Listing my projects in relearning and further learning of **C#**.
 ### Null value
 1. [NullValue](https://github.com/rolemgalvez/NullValue)
 
-### DateTime
+### Date & Time
 1. [DateTimeType](https://github.com/rolemgalvez/DateTimeType)
