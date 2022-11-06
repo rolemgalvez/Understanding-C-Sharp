@@ -27,3 +27,4 @@ Listing my projects in relearning and further learning of **C#**.
 
 ### Date & Time
 1. [DateTimeType](https://github.com/rolemgalvez/DateTimeType)
+1. [DateOnlyType](https://github.com/rolemgalvez/DateOnlyType)
