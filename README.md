@@ -7,6 +7,7 @@ Listing my projects in relearning and further learning of **C#**.
 ## Common Variables
 1. [BasicVariableTypes](https://github.com/rolemgalvez/BasicVariableTypes)
 1. [TypeConversions](https://github.com/rolemgalvez/TypeConversions)
+1. [ComputeUserInput](https://github.com/rolemgalvez/ComputeUserInput)
 
 ### String
 1. [StringType](https://github.com/rolemgalvez/StringType)
