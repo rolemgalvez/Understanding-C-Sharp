@@ -32,6 +32,6 @@ Listing my projects in relearning and further learning of **C#**.
 1. [DateOnlyType](https://github.com/rolemgalvez/DateOnlyType)
 1. [TimeOnlyType](https://github.com/rolemgalvez/TimeOnlyType)
 
-### Conditionals
+## Conditionals
 1. [IfStatementBasic](https://github.com/rolemgalvez/IfStatementBasic)
 1. [IfStatementAdvanced](https://github.com/rolemgalvez/IfStatementAdvanced)
