@@ -37,3 +37,6 @@ Listing my projects in relearning and further learning of **C#**.
 ### If Statement
 1. [IfStatementBasic](https://github.com/rolemgalvez/IfStatementBasic)
 1. [IfStatementAdvanced](https://github.com/rolemgalvez/IfStatementAdvanced)
+
+### Switch Statement
+1.[SwitchStatement](https://github.com/rolemgalvez/SwitchStatement)
