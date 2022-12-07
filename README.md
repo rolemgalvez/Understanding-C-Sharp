@@ -33,6 +33,7 @@ Listing my projects in relearning and further learning of **C#**.
 1. [TimeOnlyType](https://github.com/rolemgalvez/TimeOnlyType)
 
 ## Conditionals
+1. [Conditionals](https://github.com/rolemgalvez/Conditionals)
 
 ### If Statement
 1. [IfStatementBasic](https://github.com/rolemgalvez/IfStatementBasic)
