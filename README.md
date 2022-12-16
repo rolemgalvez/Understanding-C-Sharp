@@ -43,6 +43,7 @@ Listing my projects in relearning and further learning of **C#**.
 1. [SwitchStatement](https://github.com/rolemgalvez/SwitchStatement)
 
 ## Loops and Sets
+1. [LoopsAndSets](https://github.com/rolemgalvez/LoopsAndSets)
 
 ### Do and While Loops
 1. [DoAndWhileLoops](https://github.com/rolemgalvez/DoAndWhileLoops)
