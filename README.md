@@ -47,3 +47,6 @@ Listing my projects in relearning and further learning of **C#**.
 
 ### Do and While Loops
 1. [DoAndWhileLoops](https://github.com/rolemgalvez/DoAndWhileLoops)
+
+### Arrays
+1. [Arrays](https://github.com/rolemgalvez/Arrays)
