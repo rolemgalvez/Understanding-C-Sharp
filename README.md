@@ -50,3 +50,7 @@ Listing my projects in relearning and further learning of **C#**.
 
 ### Arrays
 1. [Arrays](https://github.com/rolemgalvez/Arrays)
+
+### Lists
+1. [Lists](https://github.com/rolemgalvez/Lists)
+
