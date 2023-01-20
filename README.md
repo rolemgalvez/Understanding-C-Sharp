@@ -54,3 +54,5 @@ Listing my projects in relearning and further learning of **C#**.
 ### Lists
 1. [Lists](https://github.com/rolemgalvez/Lists)
 
+### Dictionary
+1. [Dictionary](https://github.com/rolemgalvez/Dictionary)
