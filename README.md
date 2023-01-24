@@ -56,3 +56,6 @@ Listing my projects in relearning and further learning of **C#**.
 
 ### Dictionary
 1. [Dictionary](https://github.com/rolemgalvez/Dictionary)
+
+### For Loop
+1. [ForLoops](https://github.com/rolemgalvez/ForLoops)
