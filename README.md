@@ -59,3 +59,6 @@ Listing my projects in relearning and further learning of **C#**.
 
 ### For Loop
 1. [ForLoops](https://github.com/rolemgalvez/ForLoops)
+
+### Foreach Loop
+1. [ForEachLoops](https://github.com/rolemgalvez/ForEachLoops)
