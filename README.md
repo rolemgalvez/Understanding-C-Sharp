@@ -65,3 +65,6 @@ Listing my projects in relearning and further learning of **C#**.
 
 ## Methods
 1. [Methods](https://github.com/rolemgalvez/Methods)
+
+## Debugging
+1. [UsingBreakpoints](https://github.com/rolemgalvez/UsingBreakpoints)
