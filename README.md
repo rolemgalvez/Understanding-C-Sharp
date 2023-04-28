@@ -71,3 +71,6 @@ Listing my projects in relearning and further learning of **C#**.
 1. [ExceptionHandling](https://github.com/rolemgalvez/ExceptionHandling)
 1. [AdvancedExceptions](https://github.com/rolemgalvez/AdvancedExceptions)
 1. [UsingAdvancedBreakpoints](https://github.com/rolemgalvez/UsingAdvancedBreakpoints)
+
+## OOP (Object-Oriented Programming)
+1. [StaticClasses](https://github.com/rolemgalvez/StaticClasses)
