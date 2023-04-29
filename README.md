@@ -74,3 +74,4 @@ Listing my projects in relearning and further learning of **C#**.
 
 ## OOP (Object-Oriented Programming)
 1. [StaticClasses](https://github.com/rolemgalvez/StaticClasses)
+1. [InstantiatedClasses](https://github.com/rolemgalvez/InstantiatedClasses)
