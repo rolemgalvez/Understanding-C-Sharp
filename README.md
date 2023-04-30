@@ -76,3 +76,4 @@ Listing my projects in relearning and further learning of **C#**.
 1. [StaticClasses](https://github.com/rolemgalvez/StaticClasses)
 1. [InstantiatedClasses](https://github.com/rolemgalvez/InstantiatedClasses)
 1. [PropertyTypes](https://github.com/rolemgalvez/PropertyTypes)
+1. [Namespaces](https://github.com/rolemgalvez/Namespaces)
