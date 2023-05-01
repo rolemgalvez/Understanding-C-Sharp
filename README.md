@@ -78,3 +78,4 @@ Listing my projects in relearning and further learning of **C#**.
 1. [PropertyTypes](https://github.com/rolemgalvez/PropertyTypes)
 1. [Namespaces](https://github.com/rolemgalvez/Namespaces)
 1. [ClassLibraries](https://github.com/rolemgalvez/ClassLibraries)
+1. [OOPMiniProject](https://github.com/rolemgalvez/OOPMiniProject)
