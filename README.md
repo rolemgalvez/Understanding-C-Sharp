@@ -73,10 +73,18 @@ Listing my projects in relearning and further learning of **C#**.
 1. [UsingAdvancedBreakpoints](https://github.com/rolemgalvez/UsingAdvancedBreakpoints)
 
 ## OOP (Object-Oriented Programming)
+### Class Types
 1. [StaticClasses](https://github.com/rolemgalvez/StaticClasses)
 1. [InstantiatedClasses](https://github.com/rolemgalvez/InstantiatedClasses)
+
+### Class Options
 1. [PropertyTypes](https://github.com/rolemgalvez/PropertyTypes)
 1. [Namespaces](https://github.com/rolemgalvez/Namespaces)
+
+### Putting It Together
 1. [ClassLibraries](https://github.com/rolemgalvez/ClassLibraries)
 1. [OOPMiniProject](https://github.com/rolemgalvez/OOPMiniProject)
 1. [BattleShipLite](https://github.com/rolemgalvez/BattleShipLite)
+
+### Interfaces and Inheritance
+1. []()
