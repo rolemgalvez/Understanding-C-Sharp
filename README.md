@@ -87,4 +87,4 @@ Listing my projects in relearning and further learning of **C#**.
 1. [BattleShipLite](https://github.com/rolemgalvez/BattleShipLite)
 
 ### Interfaces and Inheritance
-1. []()
+1. [Inheritance](https://github.com/rolemgalvez/Inheritance)
