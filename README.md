@@ -96,3 +96,6 @@ Listing my projects in relearning and further learning of **C#**.
 1. [AbstractClass](https://github.com/rolemgalvez/AbstractClass)
 1. [MethodOverride](https://github.com/rolemgalvez/MethodOverride)
 1. [OOPMiniProject2](https://github.com/rolemgalvez/OOPMiniProject2)
+
+### Overloads and Extensions
+1. [MethodOverload](https://github.com/rolemgalvez/MethodOverload)
