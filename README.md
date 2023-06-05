@@ -99,3 +99,4 @@ Listing my projects in relearning and further learning of **C#**.
 
 ### Overloads and Extensions
 1. [MethodOverload](https://github.com/rolemgalvez/MethodOverload)
+1. [ExtensionMethod](https://github.com/rolemgalvez/ExtensionMethod)
