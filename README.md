@@ -106,3 +106,7 @@ Listing my projects in relearning and further learning of **C#**.
 1. [Generics](https://github.com/rolemgalvez/Generics)
 1. [Events](https://github.com/rolemgalvez/Events)
 1. [OOPMiniProject4](https://github.com/rolemgalvez/OOPMiniProject4)
+
+## Project Types
+### Class Libraries
+1. [ClassLibrary](https://github.com/rolemgalvez/ClassLibrary)
