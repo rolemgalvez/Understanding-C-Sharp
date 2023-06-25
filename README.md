@@ -113,3 +113,4 @@ Listing my projects in relearning and further learning of **C#**.
 
 ### Unit Tests
 1. [UnitTest](https://github.com/rolemgalvez/UnitTest)
+1. [ProjectTypesMiniProject](https://github.com/rolemgalvez/ProjectTypesMiniProject)
